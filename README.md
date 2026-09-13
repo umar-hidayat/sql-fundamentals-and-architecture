@@ -62,6 +62,3 @@ sqlite3 data/learning.db < 03-expressions-and-literals-demo.sql
 ```
 
 
-
-```
-
