@@ -1,0 +1,10 @@
+# Abaikan file biner database SQLite lokal
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+
+# Abaikan folder konfigurasi editor/OS
+.vscode/
+.DS_Store
